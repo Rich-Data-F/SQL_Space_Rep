@@ -2,7 +2,7 @@ import os
 import logging
 import duckdb
 import pandas as pd
-import streamlit
+import streamlit as st
 
 # Define the rows
 data={"Temperature":[23, 23, 21], "date":['12Jun2023', '13Jun2027', '13JUL2023']}
